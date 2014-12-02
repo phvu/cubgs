@@ -1,0 +1,1 @@
+These video sequences are taken from VSSN06 dataset: http://mmc36.informatik.uni-augsburg.de/VSSN06_OSAC/#Download
